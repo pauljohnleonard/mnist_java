@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets
+END
+BasicNeuronFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/BasicNeuronFactory.java
+END
+HypTangentNeuronFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/HypTangentNeuronFactory.java
+END
+FeedForwardNetBP.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/FeedForwardNetBP.java
+END
+InputNeuron.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/InputNeuron.java
+END
+Neuron.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/Neuron.java
+END
+BasicNeuron.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/BasicNeuron.java
+END
+HypTangentNeuron.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/HypTangentNeuron.java
+END
+TrInstGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/TrInstGenerator.java
+END
+NeuronObservable.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/NeuronObservable.java
+END
+FeedForwardNetSCG.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/FeedForwardNetSCG.java
+END
+NeuronFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/NeuronFactory.java
+END
+FeedForwardNet.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/43/trunk/AI/attic/src_joe/jahuwaldt/tools/NeuralNets/FeedForwardNet.java
+END

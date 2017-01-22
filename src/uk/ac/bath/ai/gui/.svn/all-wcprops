@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/94/trunk/AI/src/uk/ac/bath/ai/gui
+END
+Progressable.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/gui/Progressable.java
+END
+AIPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/94/trunk/AI/src/uk/ac/bath/ai/gui/AIPanel.java
+END
+DigitResultPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/43/trunk/AI/src/uk/ac/bath/ai/gui/DigitResultPanel.java
+END
+LoadPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/gui/LoadPanel.java
+END
+LayoutHint.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/AI/src/uk/ac/bath/ai/gui/LayoutHint.java
+END
+AIBrainFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/AI/src/uk/ac/bath/ai/gui/AIBrainFrame.java
+END
+Actions.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/87/trunk/AI/src/uk/ac/bath/ai/gui/Actions.java
+END
+ImageClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/66/trunk/AI/src/uk/ac/bath/ai/gui/ImageClient.java
+END
+ImagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/gui/ImagePanel.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/66/trunk/AI/src/uk/ac/bath/ai/gui/Image.java
+END
+ImageLabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/gui/ImageLabel.java
+END
+ImageLabelPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/66/trunk/AI/src/uk/ac/bath/ai/gui/ImageLabelPanel.java
+END
+LayoutHinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/47/trunk/AI/src/uk/ac/bath/ai/gui/LayoutHinter.java
+END

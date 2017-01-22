@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/93/trunk/AI/src/uk/ac/bath/ai/io
+END
+RandomInvertingImageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/RandomInvertingImageSource.java
+END
+FileDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/FileDataSource.java
+END
+DataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/DataSource.java
+END
+ImageLabelDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/ImageLabelDataSource.java
+END
+RandomishInvertingImageSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/io/RandomishInvertingImageSource.java
+END
+TrainingFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/43/trunk/AI/src/uk/ac/bath/ai/io/TrainingFileReader.java
+END
+CachedImageDataLabelSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/CachedImageDataLabelSource.java
+END
+SplitData.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/io/SplitData.java
+END
+DataWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/83/trunk/AI/src/uk/ac/bath/ai/io/DataWriter.java
+END
+SequentialImageLabelDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/93/trunk/AI/src/uk/ac/bath/ai/io/SequentialImageLabelDataSource.java
+END
+SequentialTrainingFileReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/64/trunk/AI/src/uk/ac/bath/ai/io/SequentialTrainingFileReader.java
+END

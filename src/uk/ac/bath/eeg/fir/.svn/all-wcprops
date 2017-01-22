@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/80/trunk/AI/src/uk/ac/bath/eeg/fir
+END
+FIRFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/80/trunk/AI/src/uk/ac/bath/eeg/fir/FIRFilter.java
+END
+FIRF.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/80/trunk/AI/src/uk/ac/bath/eeg/fir/FIRF.java
+END
+FIRBrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/80/trunk/AI/src/uk/ac/bath/eeg/fir/FIRBrain.java
+END

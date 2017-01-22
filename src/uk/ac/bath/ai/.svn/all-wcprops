@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/94/trunk/AI/src/uk/ac/bath/ai
+END
+AIModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/89/trunk/AI/src/uk/ac/bath/ai/AIModel.java
+END
+Brain.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/AI/src/uk/ac/bath/ai/Brain.java
+END
+SpeechMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/92/trunk/AI/src/uk/ac/bath/ai/SpeechMain.java
+END
+MNISTDirMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/85/trunk/AI/src/uk/ac/bath/ai/MNISTDirMain.java
+END
+MNISTMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/86/trunk/AI/src/uk/ac/bath/ai/MNISTMain.java
+END
+AIApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/69/trunk/AI/src/uk/ac/bath/ai/AIApplet.java
+END
+AbstractBrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/trunk/AI/src/uk/ac/bath/ai/AbstractBrain.java
+END
+MakeSerializedData.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/86/trunk/AI/src/uk/ac/bath/ai/MakeSerializedData.java
+END
